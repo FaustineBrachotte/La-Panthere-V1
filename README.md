@@ -2,7 +2,7 @@
 
 ## 🎓 Projet OpenClassrooms #3
 
-L'objetif de ce projet est d'optimiser le site web existant de La Panthère. Il s'agit d'analyser l’état actuel du site, d'appliquer les modifications pour l'amélioration de la performance, de l'accessibilité et du SEO afin de comparer les résultats.
+L'objectif de ce projet est d'optimiser le site web existant de La Panthère. Il s'agit d'analyser l’état actuel du site, d'appliquer les modifications pour l'amélioration de la performance, de l'accessibilité et du SEO afin de comparer les résultats.
 
 Le site optimisé se trouve dans ce repo : https://github.com/FaustineBrachotte/La-Panthere-Optim
 
